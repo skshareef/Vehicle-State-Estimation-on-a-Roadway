@@ -174,7 +174,7 @@ Below, the estimated vehicle trajectory (blue) is compared with ground truth (or
 The following plot shows estimation error for each state dimension. Red dashed lines indicate the ±3σ uncertainty bound.
 
 <p align="center">
-  <img src="images/error-plots.png" width="600"/>
+  <img src="images/errors.png" width="600"/>
 </p>
 
 ---
