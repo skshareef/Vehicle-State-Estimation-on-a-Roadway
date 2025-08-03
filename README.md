@@ -166,7 +166,7 @@ if imu_f.t[k] in lidar_t:
 Below, the estimated vehicle trajectory (blue) is compared with ground truth (orange).
 
 <p align="center">
-  <img src="images/estimated-trajectory.gif" width="600"/>
+  <img src="images/GIF_TRAJECTORY.gif" width="600"/>
 </p>
 
 ### 4.2. Estimation Error
